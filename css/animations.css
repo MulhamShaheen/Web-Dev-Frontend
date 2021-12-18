@@ -16,6 +16,7 @@
     background-color: #DCF4FA;
     color: #3B3B55;
     z-index: 10;
+    cursor: pointer;
 }
 .hvr-hilight-pink:hover,.hvr-fade:focus, .hvr-fade:active{
     background-color: rgba(227, 101, 136, 0.3);
